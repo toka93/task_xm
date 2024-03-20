@@ -1,0 +1,10 @@
+/target/
+/Reports/
+/test-output/
+
+# Log file
+*.log
+/target/
+/test-output/
+/Reports/
+/logs/
